@@ -11,7 +11,7 @@ export default class App extends Component {
     fikir: '',
     alertSuccessDisplay: 'none',
     alertErrorDisplay: 'none',
-    adminPanelMi: true,
+    adminPanelMi: false,
   };
 
   alanlariTemizle = () => {
